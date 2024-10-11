@@ -1,3 +1,5 @@
+<img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI logo" height="70">
+
 # TIC-TAC-TOE-iOS (SwiftUI)
 
 A simple and fun Tic-Tac-Toe game created using SwiftUI. This project demonstrates how to build a classic two-player game with a clean, intuitive user interface, utilizing SwiftUI's declarative UI framework.
